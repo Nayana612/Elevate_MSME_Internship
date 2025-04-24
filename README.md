@@ -6,6 +6,7 @@
 Dataset: https://github.com/Nayana612/Elevate_MSME_Internship/blob/main/Car_Insurance_Claim.csv
 
 Code:  https://github.com/Nayana612/Elevate_MSME_Internship/blob/main/1st%20Task%20(24-04-2025).ipynb
+
 ---
 **📌Step-by-step explanation of code:**
 1)	Read the data set by using pandas.
