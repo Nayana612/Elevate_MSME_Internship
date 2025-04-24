@@ -1,7 +1,10 @@
 Hello!
 My Name is Nayana D,
-       This Readme file includes explanations of my task. 
+
+This Readme file includes explanations of my task. 
+       
 Dataset: https://github.com/Nayana612/Elevate_MSME_Internship/blob/main/Car_Insurance_Claim.csv
+
 Code:  https://github.com/Nayana612/Elevate_MSME_Internship/blob/main/1st%20Task%20(24-04-2025).ipynb
 
 Step-by-step explanation of code:
